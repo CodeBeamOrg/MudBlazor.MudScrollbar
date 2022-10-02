@@ -1,5 +1,10 @@
 # MudBlazor.MudScrollbar
 A MudBlazor extension package that styles the scrollbars throughout the application.
+[![GitHub Repo stars](https://img.shields.io/github/stars/codebeamorg/mudblazor.mudscrollbar?color=594ae2&style=flat-square&logo=github)](https://github.com/codebeamorg/mudblazor.mudscrollbar/stargazers)
+[![GitHub last commit](https://img.shields.io/github/last-commit/codebeamorg/mudblazor.mudscrollbar?color=594ae2&style=flat-square&logo=github)](https://github.com/codebeamorg/mudblazor.mudscrollbar)
+[![Contributors](https://img.shields.io/github/contributors/codebeamorg/mudblazor.mudscrollbar?color=594ae2&style=flat-square&logo=github)](https://github.com/codebeamorg/mudblazor.mudscrollbar/graphs/contributors)
+[![Nuget version](https://img.shields.io/nuget/v/codebeam.mudblazor.mudscrollbar?color=ff4081&label=nuget%20version&logo=nuget&style=flat-square)](https://www.nuget.org/packages/mudblazor.mudscrollbar/)
+[![Nuget downloads](https://img.shields.io/nuget/dt/codebeam.mudblazor.mudscrollbar?color=ff4081&label=nuget%20downloads&logo=nuget&style=flat-square)](https://www.nuget.org/packages/codebeam.mudblazor.mudscrollbar/)
 
 ## Usage
 Use the MudScrollbar as a component:
