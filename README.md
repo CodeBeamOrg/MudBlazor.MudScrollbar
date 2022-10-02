@@ -1,5 +1,5 @@
 # MudBlazor.MudScrollbar
-A MudBlazor extension package that styles the scrollbars throughout the application.
+#### A MudBlazor extension package that styles the scrollbars throughout the application.
 [![GitHub Repo stars](https://img.shields.io/github/stars/codebeamorg/mudblazor.mudscrollbar?color=594ae2&style=flat-square&logo=github)](https://github.com/codebeamorg/mudblazor.mudscrollbar/stargazers)
 [![GitHub last commit](https://img.shields.io/github/last-commit/codebeamorg/mudblazor.mudscrollbar?color=594ae2&style=flat-square&logo=github)](https://github.com/codebeamorg/mudblazor.mudscrollbar)
 [![Contributors](https://img.shields.io/github/contributors/codebeamorg/mudblazor.mudscrollbar?color=594ae2&style=flat-square&logo=github)](https://github.com/codebeamorg/mudblazor.mudscrollbar/graphs/contributors)
